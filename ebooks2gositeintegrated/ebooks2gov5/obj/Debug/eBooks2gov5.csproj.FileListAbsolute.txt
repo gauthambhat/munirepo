@@ -1,0 +1,5 @@
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Debug\ResolveAssemblyReference.cache
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\bin\eBooks2gov5.dll
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\bin\eBooks2gov5.pdb
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Debug\eBooks2gov5.dll
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Debug\eBooks2gov5.pdb

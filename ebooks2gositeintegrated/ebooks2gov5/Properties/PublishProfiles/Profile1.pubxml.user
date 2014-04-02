@@ -1,0 +1,2117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2014-03-25T15:40:11.6324552+05:30</TimeStampOfAssociatedLegacyPublishXmlFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>06/09/2013 07:57:49</publishTime>
+    </File>
+    <File Include="bin/eBooks2gov5.dll">
+      <publishTime>03/28/2014 16:21:32</publishTime>
+    </File>
+    <File Include="bin/eBooks2gov5.pdb">
+      <publishTime>03/25/2014 15:39:48</publishTime>
+    </File>
+    <File Include="css/calendar.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/datePicker.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/demo.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/forms-styles.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/global8f69.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/invoice.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/jquery.mCustomScrollbar.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/layout.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/mCSB_buttons.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/next.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/previous.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/pricingpage.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/pricingstyle.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="css/styles.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/addcustomer.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/addCustomer.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/addUser.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/charts.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/add.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/avtar.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/BANK.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/bannerAds.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/bell.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/calander.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/cheque.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/customers.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/dashboard.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/delete.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/down.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/down_arrow.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/edit.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/folder.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/graph.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/help.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/inbox.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/left.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/logout.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/messages.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/newOrders.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/news.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/notes.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/oprdersProduction.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/orders.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/ordersCancelled.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/ordersDeclained.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/ordersInvoiced.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/OrdersReview.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/paypal.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/plus.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/reports.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/royalties.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/salesReports.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/search.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/services.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/sort.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/testimonials.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/trash_red.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/upsells.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/icons/users.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/jquery.dataTables.yadcf.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/media.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/style.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/tooltipster.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/css/users.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/customerHome.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/editCustomer.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/home.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/avtar.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/bgButton.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/bgCancel.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/bgCancel_over.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/bgSubmit.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/bgSubmit_over.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/breadBg.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/dark.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/logo.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/images/noiceBg.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/charts.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/duplicateinfo.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/editDups.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/filters.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/forms.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/highcharts.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/jquery-1.10.2.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/jquery.highchartTable.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/jquery.tooltipster.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/main.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/picnet.table.filter.min.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/sorttable.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/tables.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/tablesorter_filter.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/js/unfold.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryTabbedPanels.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryTabbedPanels.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationConfirm.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationConfirm.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationPassword.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationPassword.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationSelect.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationSelect.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationTextarea.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationTextarea.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationTextField.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/SpryAssets/SpryValidationTextField.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/userProfile.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="customer/users.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/complexebookappscart.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/complexebookappsfinalcart.aspx">
+      <publishTime>03/25/2014 15:24:36</publishTime>
+    </File>
+    <File Include="ebookapps/complexebookappsinvoice.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/css/accordion.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/css/demo.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/css/global8f69.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/css/jquery.mCustomScrollbar.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/css/mCSB_buttons.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/css/pricingpage.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/css/style.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/css/styles.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/ebookapps.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/eBookApps.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/flupload.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/1.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/1.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/2.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/2.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/3.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/3.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/4.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/4.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/5.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/5.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/6.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/7.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/8.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/9.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/addtocart.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/arrows.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/best.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/bg.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/box-bg.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/box-heading.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/browser.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/btn-bg.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/btnBack.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/bullet_8.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/cancel_btn.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/Categorys_bg.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/Category_bg.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/checkout_btn.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/closebox.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/close_btn.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/close_btn_h.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/common_bg.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/common_btm.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/common_top.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/ContactUsmiddle_line.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/contactus_line.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/contactus_lineright.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/contactus_lines.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/contactus_message.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/contactus_submitline.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/discount_img.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/dropdown.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/ebook-apps-ios-border.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/ebooks2go-logo.jpg">
+      <publishTime>03/28/2014 15:48:20</publishTime>
+    </File>
+    <File Include="ebookapps/images/ebooks2go_sample_border.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/ebooksformating.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/ebook_apps_banner_right.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/EnhancedeBookformating.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/enhanced_ebooks_banner_right.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/epub.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/epub.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/epub3.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/footerline.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/footerlines.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/fruitsBackground.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/help.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/help2.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/icon.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/ItemName_bg.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/kindle.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/Kobo-Book-Store-logo.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/lightbox-blank.gif">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/lightbox-btn-close.gif">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/lightbox-btn-next.gif">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases1.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases10.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases11.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases12.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases13.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases14.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases15.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases2.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases3.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases4.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases5.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases6.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases7.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases8.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/newreleases9.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/nook.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/Notebook_Paper.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/PDF.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/PDF.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/PDFdownload.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/premium-header.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/pricing-bg.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/proceed.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/publishnow_btn.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/request-quote_fastname.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/request-quote_line.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/request-quote_line.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/request-quote_options.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/right-border.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/rightmark.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/rightmarkforauthors.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/royalties_lines.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/sam.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/scart.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/shade.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/signuppage_line.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/signup_text.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/SimpleeBookApps.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/SimpleeBookApps1.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/SimpleeBookApps2.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/SimpleeBookApps4.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/SimpleeBookApps5.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/sitemap_icon.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/spec-paggs.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/sqpurple.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/sqpurple1.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/sqpurples.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/standard-header.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/star.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/street_box.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/tag.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/third-level-navi-shadow.gif">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/topicon.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/topline.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/topline.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/ui-icons_056b93_256x240.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/ui-icons_e0fdff_256x240.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/ui-icons_f5e175_256x240.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/viewcart.jpg">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/images/x.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/invoice.html">
+      <publishTime>03/28/2014 15:45:49</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery-1.9.1.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery-animate-css-rotate-scale.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery-css-transform.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery-latest.pack.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery.gallery.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery.min.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery.MultiFile.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery.ui.accordion.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery.ui.core.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/jquery.ui.widget.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/modernizr.custom.53451.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/js/trunk.js">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/newebookapps.aspx">
+      <publishTime>03/25/2014 15:49:34</publishTime>
+    </File>
+    <File Include="ebookapps/services/Apps-for-Amazon-kindle-Fire-HD.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/ebook-apps-development.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/eBook-Apps-for-Android.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/eBook-Apps-for-iOS.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/eBook-Apps-for-Samples.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/eBook-Conversion-Samples.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/ebook-conversion.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/ebook-distribution-and-royaltiess.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/Enhanced-eBook-for-iPad.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/enhanced-ebooks-samples.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/services/enhanced-ebooks.html">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/simpleebookappsinvoice.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/simpleebookcart.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/simpleebookfinalcart.aspx">
+      <publishTime>03/25/2014 15:24:36</publishTime>
+    </File>
+    <File Include="ebookapps/textbookscart.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/textbooksfinalcart.aspx">
+      <publishTime>03/25/2014 15:25:52</publishTime>
+    </File>
+    <File Include="ebookapps/textbooksinvoice.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="ebookapps/xebookapps.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/25/2014 14:50:37</publishTime>
+    </File>
+    <File Include="green_bg_Tab.gif">
+      <publishTime>03/25/2014 14:58:02</publishTime>
+    </File>
+    <File Include="green_left_tab.gif">
+      <publishTime>03/25/2014 14:58:02</publishTime>
+    </File>
+    <File Include="green_left_tab_hover.gif">
+      <publishTime>03/25/2014 14:58:02</publishTime>
+    </File>
+    <File Include="green_right_Tab.gif">
+      <publishTime>03/25/2014 14:58:02</publishTime>
+    </File>
+    <File Include="green_right_Tab_hover.gif">
+      <publishTime>03/25/2014 14:58:02</publishTime>
+    </File>
+    <File Include="images/1.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/1.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/2.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/2.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/3.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/3.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/4.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/5.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/addtocart.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/arrows.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/best.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/bg.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/box-bg.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/box-heading.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/browser.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/btn-bg.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/btnBack.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/bullet_8.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/calen.gif">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/calendar.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/cancel_btn.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/Categorys_bg.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/Category_bg.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/checkout_btn.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/closebox.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/close_btn.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/close_btn_h.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/common_bg.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/common_btm.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/common_top.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/ContactUsmiddle_line.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/contactus_line.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/contactus_lineright.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/contactus_lines.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/contactus_message.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/contactus_submitline.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/discount_img.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/dropdown.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/ebook-apps-ios-border.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/ebooks2go-logo.jpg">
+      <publishTime>03/28/2014 15:51:51</publishTime>
+    </File>
+    <File Include="images/ebooks2go_sample_border.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/ebooksformating.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/ebook_apps_banner_right.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/EnhancedeBookformating.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/enhanced_ebooks_banner_right.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/epub.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/epub.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/epub3.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/footerline.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/footerlines.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/fruitsBackground.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/help.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/help2.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/icon.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/ItemName_bg.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/kindle.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/Kobo-Book-Store-logo.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/lightbox-blank.gif">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/lightbox-btn-close.gif">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/lightbox-btn-next.gif">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases1.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases10.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases11.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases12.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases13.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases14.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases15.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases2.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases3.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases4.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases5.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases6.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases7.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases8.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/newreleases9.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/nook.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/Notebook_Paper.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/PDF.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/PDF.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/PDFdownload.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/premium-header.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/pricing-bg.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/proceed.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/publishnow_btn.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/request-quote_fastname.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/request-quote_line.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/request-quote_line.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/request-quote_options.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/right-border.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/rightmark.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/rightmarkforauthors.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/royalties_lines.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/sam.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/scart.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/shade.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/signuppage_line.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/signup_text.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/sitemap_icon.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/spec-paggs.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/sqpurple.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/sqpurple1.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/sqpurples.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/standard-header.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/star.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/street_box.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/tag.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/third-level-navi-shadow.gif">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/topicon.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/topline.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/topline.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/viewcart.jpg">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="images/x.png">
+      <publishTime>03/25/2014 15:03:21</publishTime>
+    </File>
+    <File Include="invoice.html">
+      <publishTime>03/25/2014 14:58:02</publishTime>
+    </File>
+    <File Include="js/date.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/1.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/1.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/2.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/2.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/3.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/3.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/4.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/5.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/addtocart.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/arrows.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/arrow_white.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/back_icon.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/best.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/bg.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/box-bg.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/box-heading.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/browser.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/btn-bg.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/btnBack.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/btn_bg.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/btn_bg.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/bullet_8.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/cancel_btn.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/Categorys_bg.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/Category_bg.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/checkout_btn.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/closebox.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/close_btn.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/close_btn_h.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/common_bg.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/common_btm.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/common_top.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/ContactUsmiddle_line.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/contactus_line.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/contactus_lineright.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/contactus_lines.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/contactus_message.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/contactus_submitline.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/discount_img.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/dropdown.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/ebook-apps-ios-border.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/ebooks2go-logo.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/ebooks2go_sample_border.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/ebooksformating.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/ebook_apps_banner_right.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/edit-icon.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/edit_iconmaster.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/EnhancedeBookformating.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/enhanced_ebooks_banner_right.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/epub.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/epub.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/epub3.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/footerline.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/footerlines.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/help.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/help2.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/home_icon.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/icon.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/ItemName_bg.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/kindle.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/Kobo-Book-Store-logo.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/lightbox-blank.gif">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/lightbox-btn-close.gif">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/lightbox-btn-next.gif">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/menu_bg.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/menu_devider.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/nook.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/Notebook_Paper.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/PDF.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/PDF.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/PDFdownload.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/premium-header.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/pricing-bg.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/print_icon.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/proceed.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/publishnow_btn.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/request-quote_fastname.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/request-quote_line.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/request-quote_line.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/request-quote_options.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/right-border.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/rightmark.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/rightmarkforauthors.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/royalties_lines.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/sam.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/scart.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/shade.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/signuppage_line.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/signup_text.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/sitemap_icon.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/spec-paggs.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/sqpurple.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/sqpurple1.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/sqpurples.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/standard-header.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/star.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/street_box.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/tag.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/third-level-navi-shadow.gif">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/title_bg.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/topicon.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/topline.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/topline.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/viewcart.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/images/x.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery-1.9.1.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery-animate-css-rotate-scale.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery-css-transform.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery.datePicker.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery.gallery.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery.MultiFile.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery.ui.accordion.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery.ui.core.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/jquery.ui.widget.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/modernizr.custom.53451.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="js/trunk.js">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/AcroRd32.exe">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/addmenu.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/ado.net.txt">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/apmessage.txt">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/b.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/blkOrder.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/BSNLbandam.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Bulk.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/ceo.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Chrysanthemum.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/colorschememapping.xml">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/cp iq%27s.txt">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/creditcard.txt">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/css.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/custsupporterror!!!!.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/dailyrazor-error.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Desert.jpg">
+      <publishTime>03/28/2014 15:43:01</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/dinaker.txt">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/ebook section html code.txt">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/ebookpricisingdoc.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/enhancedebookspricingdoc.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/filelist.xml">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/horse1.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Hydrangeas.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/images.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Jellyfish.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/joining date of gantec.txt">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Koala.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Lighthouse.jpg">
+      <publishTime>03/28/2014 16:09:14</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/mailerror.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Penguins.jpg">
+      <publishTime>03/28/2014 16:09:14</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/pricing.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/pricing2.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Pricising.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Tulips.jpg">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="manuscriptdocuments/Webmail Error.png">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing.html">
+      <publishTime>03/25/2014 14:58:02</publishTime>
+    </File>
+    <File Include="pricing/css/invoice.css">
+      <publishTime>03/28/2014 15:50:11</publishTime>
+    </File>
+    <File Include="pricing/ebook.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing/ebookcart.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing/ebookfinalcart.aspx">
+      <publishTime>03/25/2014 15:07:22</publishTime>
+    </File>
+    <File Include="pricing/ebookinvoice.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing/enhancedebook.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing/enhancedebookcart.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing/enhancedebookfinalcart.aspx">
+      <publishTime>03/25/2014 15:07:22</publishTime>
+    </File>
+    <File Include="pricing/enhancedebookinvoice.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing/fileupload.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing/flupload.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing/images/1.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/1.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/2.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/2.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/3.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/3.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/4.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/5.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/addtocart.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/arrows.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/best.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/bg.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/box-bg.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/box-heading.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/browser.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/btn-bg.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/btnBack.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/bullet_8.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/calen.gif">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/calendar.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/cancel_btn.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/Categorys_bg.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/Category_bg.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/checkout_btn.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/closebox.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/close_btn.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/close_btn_h.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/common_bg.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/common_btm.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/common_top.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/ContactUsmiddle_line.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/contactus_line.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/contactus_lineright.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/contactus_lines.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/contactus_message.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/contactus_submitline.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/discount_img.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/dropdown.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/ebook-apps-ios-border.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/ebooks2go-logo.jpg">
+      <publishTime>03/28/2014 15:50:11</publishTime>
+    </File>
+    <File Include="pricing/images/ebooks2go_sample_border.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/ebooksformating.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/ebook_apps_banner_right.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/EnhancedeBookformating.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/enhanced_ebooks_banner_right.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/epub.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/epub.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/epub3.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/footerline.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/footerlines.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/fruitsBackground.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/help.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/help2.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/icon.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/ItemName_bg.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/kindle.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/Kobo-Book-Store-logo.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/lightbox-blank.gif">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/lightbox-btn-close.gif">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/lightbox-btn-next.gif">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases1.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases10.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases11.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases12.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases13.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases14.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases15.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases2.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases3.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases4.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases5.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases6.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases7.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases8.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/newreleases9.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/nook.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/Notebook_Paper.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/PDF.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/PDF.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/PDFdownload.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/premium-header.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/pricing-bg.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/proceed.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/publishnow_btn.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/request-quote_fastname.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/request-quote_line.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/request-quote_line.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/request-quote_options.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/right-border.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/rightmark.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/rightmarkforauthors.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/royalties_lines.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/sam.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/scart.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/shade.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/signuppage_line.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/signup_text.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/sitemap_icon.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/spec-paggs.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/sqpurple.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/sqpurple1.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/sqpurples.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/standard-header.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/star.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/street_box.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/tag.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/third-level-navi-shadow.gif">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/topicon.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/topline.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/topline.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/viewcart.jpg">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/images/x.png">
+      <publishTime>03/25/2014 15:04:22</publishTime>
+    </File>
+    <File Include="pricing/invoice.html">
+      <publishTime>03/28/2014 15:49:46</publishTime>
+    </File>
+    <File Include="pricing/xebook.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing/xenhancedebook.aspx">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="pricing2.html">
+      <publishTime>03/25/2014 14:58:02</publishTime>
+    </File>
+    <File Include="pricingwithajaxtab.aspx">
+      <publishTime>03/25/2014 14:58:02</publishTime>
+    </File>
+    <File Include="services/Apps-for-Amazon-kindle-Fire-HD.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/ebook-apps-development.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/eBook-Apps-for-Android.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/eBook-Apps-for-iOS.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/eBook-Apps-for-Samples.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/eBook-Conversion-Samples.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/ebook-conversion.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/ebook-distribution-and-royaltiess.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/Enhanced-eBook-for-iPad.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/enhanced-ebooks-samples.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="services/enhanced-ebooks.html">
+      <publishTime>03/25/2014 14:55:12</publishTime>
+    </File>
+    <File Include="signin/css/jquery-ui.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="signin/css/newSignIn.css">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="signin/images/ItemName_bg.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="signin/images/Login_btn.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="signin/images/ui-icons_d8e7f3_256x240.png">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="signin/signin.aspx">
+      <publishTime>03/25/2014 14:55:11</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>03/25/2014 14:50:37</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/28/2014 16:23:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

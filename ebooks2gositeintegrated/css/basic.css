@@ -1,0 +1,31 @@
+/* 119.226.93.98:8078 */
+#basic-modal-content {color:#000000;}
+
+/* Overlay */
+#simplemodal-overlay {background-color:#000;}
+
+/* Container */
+#simplemodal-container {height:420px;  width:420px; color:#bbb; background-color:#fff; border:2px solid #494747;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;border-radius: 8px 8px 8px 8px;}
+#simplemodal-container .simplemodal-data {padding:8px;}
+#simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
+#simplemodal-container a {color:#147398;}
+#simplemodal-container a:hover {color:#00425b;}
+#simplemodal-container a.modalCloseImg {background:url(../images/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-10px; right:-11px; cursor:pointer;}
+#simplemodal-container h3 {color:#84b8d9;}
+#basic-modal-content h3{ font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; color:#666666; width:570px;}
+.filldetails{ margin-top:20px;}
+#basic-modal-content p{ width:320px; float:left; margin-left:20px;font-family:droid sans; font-size:14px; line-height:27px;}
+#ebooks2go_loginform{width:320px; float:left;}
+.ebooks2go_createonaccount a{font-family:droid sans; font-size:14px; color:#147398; text-decoration:none;}
+#ebooks2go_loginform_ItemName input {background: transparent; width: 330px; padding-left:12px;font-size: 14px; line-height: 1; border: 0; border-radius: 0; color:#242424;   height: 34px;  -webkit-appearance: none; background: url(../images/ItemName_bg.png); background-repeat:no-repeat;  outline:none; margin-left:18px; margin-bottom:20px;}
+.ebooks2go_Rememberme{font-family:Droid Sans; font-size:12px; color:#000000; margin-left:30px; line-height:20px;}
+.ebooks2go_Forgotpassword{font-family:droid sans; font-size:12px; color:#147398; margin-left:20px; text-decoration:none;}
+.ebooks2go_Forgotpassword a{font-family:Droid Sans; font-size:12px; color:#147398; text-decoration:none;}
+.ebooks2go_submit input{background: transparent; width: 80px; padding-left:10px;font-size: 14px; line-height: 1; border: 0; border-radius: 0; color:#242424; height: 30px;  -webkit-appearance: none;  outline:none; margin-left:120px; margin-top:30px;  }
+#grid #content .chromed-list-browser #basic-modal-content #ebooks2go_loginform #preview-frame {
+	border: medium solid #FF0000;
+}
+@font-face {
+font-family: "Droid Sans";
+src: url(../DroidSans.ttf) format("truetype");
+}

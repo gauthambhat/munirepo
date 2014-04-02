@@ -1,0 +1,15 @@
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\bin\eBooks2gov5.dll
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\bin\eBooks2gov5.pdb
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Release\ResolveAssemblyReference.cache
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Release\eBooks2gov5.dll
+E:\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Release\eBooks2gov5.pdb
+C:\Users\gantec\Desktop\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\bin\eBooks2gov5.dll
+C:\Users\gantec\Desktop\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\bin\eBooks2gov5.pdb
+C:\Users\gantec\Desktop\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Release\eBooks2gov5.csprojResolveAssemblyReference.cache
+C:\Users\gantec\Desktop\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Release\eBooks2gov5.dll
+C:\Users\gantec\Desktop\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Release\eBooks2gov5.pdb
+E:\eBooks2goV5.0\New folder\gautham\pricing page backup\07-03-2014\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\bin\eBooks2gov5.dll
+E:\eBooks2goV5.0\New folder\gautham\pricing page backup\07-03-2014\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\bin\eBooks2gov5.pdb
+E:\eBooks2goV5.0\New folder\gautham\pricing page backup\07-03-2014\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Release\eBooks2gov5.dll
+E:\eBooks2goV5.0\New folder\gautham\pricing page backup\07-03-2014\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Release\eBooks2gov5.pdb
+E:\eBooks2goV5.0\New folder\gautham\pricing page backup\07-03-2014\eBooks2goV5\eBooks2goV5\eBooks2gov5\eBooks2gov5\obj\Release\eBooks2gov5.csprojResolveAssemblyReference.cache

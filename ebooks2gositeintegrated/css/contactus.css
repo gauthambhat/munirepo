@@ -1,0 +1,50 @@
+﻿h2
+{
+    display:block;
+    width:100%;
+    background-color:#000;
+    position:relative;
+    color:#fff;
+    
+   }
+   
+   .leftmargin
+   {
+       position:relative;
+       left:15px;
+   }
+   table
+   {
+       background-color:White;
+       border-radius:5px;
+   }
+   input[type="text"],.textbox1_contactus, textarea{
+
+	border:#dddddd 1px solid;
+	background-color:#fffff;
+	width:270px;
+
+}
+input[type="submit"]{
+	color:#444444;
+	height:28px;
+	width:81px;
+	background-image:url(../images/submit_contac_btnt.png);
+	font-weight:bold;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Venkatesh Reddy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+@font-face {
+font-family: "Droid Sans";
+src: url(../DroidSans.ttf) format("truetype");
+}
+.text_contact_red{ color:#ff0000;}
+.eb2g_contact{ width:441px; font-family:droid sans; font-size:13px; }
+.heading_contact{font-family:droid sans; font-size:16px; color:#262626; line-height:27px; margin-left:10px; width:430px; float:left;}
+
+.eb2g_contact input[type="text"] {background: transparent; width: 300px; padding-left:12px;font-size: 14px; line-height: 1; border: 0; border-radius: 0; color:#242424; height: 33px;  -webkit-appearance: none; background: url(../images/signup_text.png); background-repeat:no-repeat;  outline:none; margin-left:18px;}
+
+.eb2g_contact select {background: transparent; width: 300px; padding: 7px; font-size: 14px; line-height: 1; border: 0; border-radius: 0; color:#242424;   height: 34px;  -webkit-appearance: none; background: url(../images/Categorys_bg.png); background-repeat:no-repeat;  outline:none;margin-left:18px;  }
+
+.eb2g_contact textarea{background: transparent; width: 280px !important; padding-right:30px;padding-top:10px; padding-bottom:5px; padding-left:12px;font-size: 14px; line-height: 1; border: 0; border-radius: 0; color:#242424;   height: 105px !important;  -webkit-appearance: none; background: url(../images/contactus_message.jpg); background-repeat:no-repeat;  outline:none; margin-left:18px;}
